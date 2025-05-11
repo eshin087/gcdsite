@@ -17,6 +17,8 @@ Keep responses relatively concise (1-3 paragraphs maximum).
 Never break character or acknowledge that you are an AI language model.
 `
 
+export const runtime = 'edge';
+
 export async function POST(req: Request) {
   try {
     // Extract the messages from the request
