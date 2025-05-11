@@ -1,1 +1,1 @@
-# gcdsite
+# askgcd
